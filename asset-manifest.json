@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/suryaPortfolio/static/css/main.7e5fb436.css",
-    "main.js": "/suryaPortfolio/static/js/main.1270b4f5.js",
-    "static/js/787.a2cb61a6.chunk.js": "/suryaPortfolio/static/js/787.a2cb61a6.chunk.js",
-    "static/media/portfolio2.jpg": "/suryaPortfolio/static/media/portfolio2.499963e30fd0d09ded2b.jpg",
-    "static/media/portfolio3.jpg": "/suryaPortfolio/static/media/portfolio3.b1f39023e60e41c0f919.jpg",
-    "static/media/portfolio1.jpg": "/suryaPortfolio/static/media/portfolio1.30a9badae03616abaf97.jpg",
-    "static/media/img.jpg": "/suryaPortfolio/static/media/img.7261bcdab913b51e5963.jpg",
-    "static/media/portfolio4.jpg": "/suryaPortfolio/static/media/portfolio4.b26906aa0583f6492fd3.jpg",
-    "static/media/Surya Kumar cv.pdf": "/suryaPortfolio/static/media/Surya Kumar cv.afcb62fe0ba2c2c66736.pdf",
-    "index.html": "/suryaPortfolio/index.html",
-    "main.7e5fb436.css.map": "/suryaPortfolio/static/css/main.7e5fb436.css.map",
-    "main.1270b4f5.js.map": "/suryaPortfolio/static/js/main.1270b4f5.js.map",
-    "787.a2cb61a6.chunk.js.map": "/suryaPortfolio/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/reactportfolio/static/css/main.7907b59f.css",
+    "main.js": "/reactportfolio/static/js/main.c0487dd2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/reactportfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/portfolio2.jpg": "/reactportfolio/static/media/portfolio2.499963e30fd0d09ded2b.jpg",
+    "static/media/portfolio3.jpg": "/reactportfolio/static/media/portfolio3.b1f39023e60e41c0f919.jpg",
+    "static/media/portfolio1.jpg": "/reactportfolio/static/media/portfolio1.30a9badae03616abaf97.jpg",
+    "static/media/img.jpg": "/reactportfolio/static/media/img.7261bcdab913b51e5963.jpg",
+    "static/media/portfolio4.jpg": "/reactportfolio/static/media/portfolio4.b26906aa0583f6492fd3.jpg",
+    "static/media/Surya Kumar cv.pdf": "/reactportfolio/static/media/Surya Kumar cv.afcb62fe0ba2c2c66736.pdf",
+    "index.html": "/reactportfolio/index.html",
+    "main.7907b59f.css.map": "/reactportfolio/static/css/main.7907b59f.css.map",
+    "main.c0487dd2.js.map": "/reactportfolio/static/js/main.c0487dd2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/reactportfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e5fb436.css",
-    "static/js/main.1270b4f5.js"
+    "static/css/main.7907b59f.css",
+    "static/js/main.c0487dd2.js"
   ]
 }
