@@ -5,7 +5,7 @@ const Btn = () => {
   return (
     <div className='btn_main'>
         <a href={CV} className='btn' target="-blank">Download CV</a>
-        <a href='#Contact' className='btn btn-primary'>Let's Talk</a>
+        <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
     </div>
   )

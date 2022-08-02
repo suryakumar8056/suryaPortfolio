@@ -10,40 +10,44 @@ const Services = () => {
      <div className='container services_container'>
          <article className='service'>
              <div className='services_head'>
-                 <h3>UI/UX Design</h3>
+                 <h3>UI Developement</h3>
              </div>
              <ul className='services_list'>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>User Interface development.</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>React Js Developement.</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>Optimize applications for maximum speed.</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>Familiarity with RESTful APIs..</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>Thorough understanding of React.js and its core principles.</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>Familiarity with code versioning tools git & bitbucket..</p>
                  </li>
                  <li>
                      <BiCheck className='sevice_list_icon'/>
-                     <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                     <p>Collaborate with back-end developers and web designers to improve usability.</p>
+                 </li>
+                 <li>
+                     <BiCheck className='sevice_list_icon'/>
+                     <p>Stay up-to-date on emerging technologies.</p>
                  </li>
              </ul>
          </article>
-         <article className='service'>
+       {/*  <article className='service'>
              <div className='services_head'>
                  <h3>Web Developement</h3>
              </div>
@@ -78,7 +82,7 @@ const Services = () => {
                  </li>
              </ul>
          </article>
-         <article className='service'>
+       {/*  <article className='service'>
              <div className='services_head'>
                  <h3>Content Creation</h3>
              </div>
@@ -112,7 +116,7 @@ const Services = () => {
                      <p>orem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                  </li>
              </ul>
-         </article>
+  </article>*/}
      </div>
     </section>
   )
