@@ -67,8 +67,8 @@ const About = () => {
          <h2>Sample Workes</h2>
          <div className='wrapper_projects'>
             <p className='heading'></p>
-            <p><a href=''>Weather App</a></p>
-            <p><a href=''>Bmi App</a></p>
+            <p><a href='https://suryakumar8056.github.io/weathr/' target='_blank'>Weather App</a></p>
+            <p><a href='https://suryakumar8056.github.io/Bmi/' target="_blank">Bmi App</a></p>
             <p><a href=''>Social App</a></p>
          </div>
          <small id='ggg'onClick={handleReadMoreProject}>{readMoreProject?"Read More":"Read Less"}</small>
