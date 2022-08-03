@@ -52,7 +52,7 @@ const About = () => {
              <h5>Supervising the paint shop and coordinating the TPI inspectors.</h5>
           </div>
           <div className='small_detail'>
-          <p id='ggg' onClick={handleReadMore}>{readMore?"Read More":"Read Less"}</p>
+          <p id='click' onClick={handleReadMore}>{readMore?"Read More":"Read Less"}</p>
           </div>
         </article>
         }
